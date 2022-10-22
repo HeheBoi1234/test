@@ -1,4 +1,4 @@
 
-spawn(function()
-     print("hihihia")
-end)
+
+     print("c")
+
